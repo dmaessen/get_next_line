@@ -6,5 +6,5 @@ Your function should return the line that was read.<br>
 If there is nothing else to read or if an error occurred, it should return NULL.<br>
 
 
-<b>get_next_line_bonus</b>
+<b>get_next_line_bonus</b><br>
 Manages multiple file descriptors at the same time.<br>
